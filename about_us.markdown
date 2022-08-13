@@ -4,9 +4,9 @@ title: About Us
 permalink: /about_us/
 ---
 
-## Mission Statements
+Under construction
 
-Mission s
+## Mission Statement
 
 ## Committee
 

@@ -1,0 +1,9 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+{% for file in site.data.s3 %}
+    <div><a href="{{ file.url }}">{{ file.name }}</a></div>
+{% endfor %}
